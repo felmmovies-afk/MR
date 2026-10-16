@@ -1,0 +1,18 @@
+{
+  "id": "./index.html",
+  "name": "NEGM WEB LAB — استوديو تطوير الويب",
+  "short_name": "NEGM LAB",
+  "description": "محرر HTML ومعاينة مشاريع الويب من الهاتف",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./index.html#الرئيسية",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070910",
+  "theme_color": "#080a12",
+  "icons": [
+    {"src":"assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}
+  ],
+  "categories": ["developer", "productivity", "utilities"]
+}
